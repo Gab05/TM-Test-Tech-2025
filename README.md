@@ -2,6 +2,10 @@
 
 A Flutter project to scan Ticketmaster barcodes containing event IDs and displaying event data.
 
+## Demo
+
+Screen recording demo available: `demo.webm`
+
 ## Setup
 
 Make sure Flutter is installed on your machine and run `flutter doctor` to resolve any issues.
